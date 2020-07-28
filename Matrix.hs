@@ -1,4 +1,4 @@
-module Matrix (Matrix(..), getValue, transpose) where
+module Matrix (Matrix(..), getValue, transpose, isUnitary) where
 
 import ComplexNum
 import Maths

@@ -1,0 +1,10 @@
+Matrix.hs
+	isUnitary
+	isSquare
+	inverse - Has to be square matrix
+	determinant - Has to be a square matrix
+	cofactor matrix - Sign factor * det(minor) - Has to be square matrix
+	sign factor matrix 
+	minor - Has to be square matrix
+
+	
